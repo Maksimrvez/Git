@@ -1,7 +1,7 @@
-:white_check_mark: Первоначальная настройка Git
+# Первоначальная настройка Git
 > ***Первое, что вам следует сделать после установки Git— указать ваше имя и адрес электронной почты. (bold italic)***
 
-# git config --global user.name ""
+git config --global user.name ""
 git config --global user.email ""
 > ***Создать локально новый репозиторий (bold italic)***
 git init
