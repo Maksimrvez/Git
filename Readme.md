@@ -1,6 +1,6 @@
 # Система контроля версий Git
 
-![Картинка](https://github.com/Maksimrvez/Git/raw/main/imoges/image.jpg)
+![Картинка](https://github.com/Maksimrvez/Git/raw/main/image.jpg)
 
 ## Первоначальная настройка Git
 > **Первое, что вам следует сделать после установки Git— указать ваше имя и адрес электронной почты.**
