@@ -1,7 +1,7 @@
 # Первоначальная настройка Git
 > **Первое, что вам следует сделать после установки Git— указать ваше имя и адрес электронной почты.**
   
-  git config --global user.name ""
+  ~~~git config --global user.name ""~~~
   
   git config --global user.email ""
 
